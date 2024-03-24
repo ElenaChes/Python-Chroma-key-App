@@ -1,6 +1,6 @@
 # Chroma key App
 
-A "green screen" replacing program written in Python using OpenCV.<br>
+A college project in Python using OpenCV.<br>
 Description: a simple app that takes two images - one with green areas, the other a background image, and outputs an image with the green areas replaced with the background image.
 
 <details>
