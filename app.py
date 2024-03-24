@@ -105,7 +105,6 @@ def main():
 
   # Try to save or display
   saveImg(ofilename,img_output)
-  plt.show()
 
 #===================================================================  
 if __name__ == "__main__":
