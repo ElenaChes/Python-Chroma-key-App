@@ -21,11 +21,11 @@ The app could work with different versions, but this is the one that was tested.
 
 # Installation
 
-1. Create a new directory, for example `opencv`.
+1. Create a new directory, for example `chromakey`, and place `app.py` inside of it.
 2. Open the directory in your Terminal:
 
 ```
-cd opencv
+cd chromakey
 ```
 
 3. Create a virtual environment:
@@ -45,9 +45,6 @@ python -m venv opencv-env
 ```
 pip install opencv-contrib-python matplotlib
 ```
-
-> [!TIP]
-> Place the `app.py` file in the same parent folder as `opencv` for ease of use.
 
 # Usage
 
